@@ -1,14 +1,6 @@
 
 # Alex's Homelab
 
-This project utilizes [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code) to automate provisioning, operating, and updating self-hosted services in my homelab.
-
-> **What is a homelab?**
->
-> Homelab is a laboratory at home where you can self-host, experiment with new technologies, practice for certifications, and so on.
-> For more information, please see the [r/homelab introduction](https://www.reddit.com/r/homelab/wiki/introduction) and the
-> [Home Operations Discord community](https://discord.gg/home-operations) (formerly known as [k8s-at-home](https://k8s-at-home.com)).
-
 ## Overview
 
 Project status: **ALPHA**

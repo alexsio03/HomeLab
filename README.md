@@ -110,8 +110,32 @@ They can't capture all the project's features, but they are sufficient to get a 
         <td><a href="https://www.wireguard.com">Wireguard</a></td>
         <td>Fast, modern, secure VPN tunnel</td>
     </tr>
+    <tr>
+        <td><img width="32" src="https://metallb.io/images/logo/metallb-white.png"></td>
+        <td><a href="https://metallb.io/">MetalLB</a></td>
+        <td>Load-balancer implementation for bare metal Kubernetes clusters</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngjP80gSN2OViqOtEWiQk8Fkvf4TPcMh9_w&s"></td>
+        <td><a href="https://www.rancher.com">Rancher</a></td>
+        <td>Open-source platform for Kubernetes management</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://longhorn.io/img/logos/longhorn-icon-white.png"></td>
+        <td><a href="https://longhorn.io/">LongHorn</a></td>
+        <td>Cloud native distributed block storage for Kubernetes</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TgvfyQXTfJo_XdQc6eP0GLWYev0JaMrhAQ&s"></td>
+        <td><a href="https://traefik.io/traefik/">Traefik</a></td>
+        <td>Open source reverse proxy and ingress controller</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://avatars.githubusercontent.com/u/10625446?s=280&v=4"></td>
+        <td><a href="https://ngrok.com/">Ngrok</a></td>
+        <td>TCP Gateway for MC server</td>
+    </tr>
 </table>
-Add rows: metalLB, Rancher, LongHorn, Traefik, Ngrok
 
 ## License
 

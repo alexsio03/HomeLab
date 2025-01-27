@@ -9,7 +9,8 @@ This project is still in the beginning stages. I will be **SLOWLY** adding to th
 
 ### Hardware
 
-![Hardware](image)
+![Hardware](https://github.com/user-attachments/assets/c12e54f0-586d-4770-8dcc-8bb4c84d3e26)
+
 
 - 3 × Lenovo ThinkCentre `M900 USFF`:
     - CPU: `Intel Core i5-4570T`

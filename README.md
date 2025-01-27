@@ -41,12 +41,19 @@ This project is still in the beginning stages. I will be **SLOWLY** adding to th
 Some demo videos and screenshots are shown here.
 They can't capture all the project's features, but they are sufficient to get a concept of it.
 
-| Demo                                                                                                            |
+| Current Services                                                                                                |
 | :--:                                                                                                            |
-| [![][rancher]](image)                                           |
-| Add images for current services being run                                          |
-|
-[rancher]: https://image
+| [![][rancher]][rancher]                                                                                         |
+| Cluster/Node management UI in Rancher                                                                           |
+| [![][longhorn]][longhorn]                                                                                       |
+| Distributed storage across nodes in LongHorn                                                                    |
+| [![][traefik]][traefik]                                                                                         |
+| Network access point monitoring and notifications with Traefik                                                  |
+
+[rancher]: https://github.com/user-attachments/assets/14fabeb7-8566-491c-9b54-4e69107e0ab7
+[traefik]: https://github.com/user-attachments/assets/c6ad0ce2-71e0-4a5e-a257-3264cce4485f
+[longhorn]: https://github.com/user-attachments/assets/787d407d-d822-4e1d-bb93-cabadc7d1934
+
 
 ### Tech stack
 

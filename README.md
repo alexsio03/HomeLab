@@ -49,11 +49,16 @@ They can't capture all the project's features, but they are sufficient to get a 
 | Distributed storage across nodes in LongHorn                                                                    |
 | [![][traefik]][traefik]                                                                                         |
 | Network access point monitoring and notifications with Traefik                                                  |
+| [![][homepage]][homepage]                                                                                       |
+| Homepage for quick access and hyperlinks to tools                                                               |
+| [![][gitea]][gitea]                                                                                             |
+| Locally hosted Git service for private repositories                                                             |
 
 [rancher]: https://github.com/user-attachments/assets/14fabeb7-8566-491c-9b54-4e69107e0ab7
 [traefik]: https://github.com/user-attachments/assets/c6ad0ce2-71e0-4a5e-a257-3264cce4485f
 [longhorn]: https://github.com/user-attachments/assets/787d407d-d822-4e1d-bb93-cabadc7d1934
-
+[homepage]: https://github.com/user-attachments/assets/1501cb19-0d3b-4fbe-bb74-05a70b0657c0
+[gitea]: https://github.com/user-attachments/assets/11a1554e-7490-4bfd-b0df-a50aa48c902b
 
 ### Tech stack
 
@@ -142,6 +147,16 @@ They can't capture all the project's features, but they are sufficient to get a 
         <td><img width="32" src="https://avatars.githubusercontent.com/u/10625446?s=280&v=4"></td>
         <td><a href="https://ngrok.com/">Ngrok</a></td>
         <td>TCP Gateway for MC server</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg"></td>
+        <td><a href="https://gitea.com">Gitea</a></td>
+        <td>Self-hosted Git service</td>
+    </tr>
+    <tr>
+        <td><img width="32" src="https://github.com/user-attachments/assets/7ace3c45-655d-4ec8-80c9-c917724693b8"></td>
+        <td><a href="https://gethomepage.dev/">Homepage</a></td>
+        <td>Self-hosted dashboard with hyperlinks and tools</td>
     </tr>
 </table>
 

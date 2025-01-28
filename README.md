@@ -57,7 +57,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 [rancher]: https://github.com/user-attachments/assets/14fabeb7-8566-491c-9b54-4e69107e0ab7
 [traefik]: https://github.com/user-attachments/assets/c6ad0ce2-71e0-4a5e-a257-3264cce4485f
 [longhorn]: https://github.com/user-attachments/assets/787d407d-d822-4e1d-bb93-cabadc7d1934
-[homepage]: https://github.com/user-attachments/assets/1501cb19-0d3b-4fbe-bb74-05a70b0657c0
+[homepage]: https://github.com/user-attachments/assets/49b6ef20-c618-411a-98db-d3b63a464a26
 [gitea]: https://github.com/user-attachments/assets/11a1554e-7490-4bfd-b0df-a50aa48c902b
 
 ### Tech stack
